@@ -1,16 +1,30 @@
 {
-  "name": "pb-project-shrugman",
-  "version": "1.0.0",
-  "description": "",
+  "name": "ramial-saadi-s-lettersonfire-afullyoop-nodejs-game-rami24t",
+  "version": "1.2.1",
+  "description": "Rami Al-Saadi's Letters On Fire an Object Oriented Programming Node Javascript game.",
   "main": "index.js",
+  "dependencies": {
+    "ansi-regex": "^4.1.1",
+    "ansi-styles": "^4.3.0",
+    "chalk": "^4.1.2",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "has-flag": "^4.0.0",
+    "prompt-sync": "^4.2.0",
+    "strip-ansi": "^5.2.0",
+    "supports-color": "^7.2.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "chalk": "^4.1.2",
-    "prompt-sync": "^4.2.0"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rami24t/RamiAl-Saadi-s-LettersOnFire-aFullyOOP-nodeJS-game.git"
+  },
+  "author": "Rami Al-Saadi",
+  "bugs": {
+    "url": "https://github.com/Rami24t/RamiAl-Saadi-s-LettersOnFire-aFullyOOP-nodeJS-game/issues"
+  },
+  "homepage": "https://github.com/Rami24t/RamiAl-Saadi-s-LettersOnFire-aFullyOOP-nodeJS-game#readme"
 }
