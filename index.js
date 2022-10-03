@@ -66,8 +66,8 @@ class App {
                     UI.write('\n' + player.showStatus() + '\n')
                 }
                 do {
-                    newGame = UI.read('Wow! That was a good one!\nWould you like to: \n  1 - do a rematch(Default: \'1\') \n 2 - start a new Game?(\'2\')\n or \n 3 - Enter \'3\' to exit the app.');
-                } while (!newGame.includes('1') && !newGame.startsWith('Re') && !newGame == '' && !newGame.startsWith('n') && !newGame.includes('2') && !newGame.includes('3'))
+                    newGame = UI.read('Wow! That was a good one!\nWould you like to: \n 1 - do a rematch(Default: \'1\') \n 2 - start a new Game?(\'2\')\n or \n 3 - Enter \'3\' to exit the app.');
+                } while (!newGame.includes('1') && !newGame.startsWith('Re') && !(newGame == '') && !newGame.startsWith('n') && !newGame.includes('2') && !newGame.includes('3'))
             } while (newGame.includes('1') || newGame.startsWith('Re') || newGame == '')
         } while (newGame.startsWith('n') || newGame.includes('2'))
         console.log('Thanks for playing, \n Bye Bye xoxo !!!');
