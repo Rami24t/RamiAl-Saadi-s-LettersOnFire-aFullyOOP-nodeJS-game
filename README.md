@@ -14,3 +14,12 @@
 - Difficulty of the game depends on the chosen length of the book title to be guessed
 - The number of players and the length of the book title and the number of rounds can be chosen before the game starts
 - I software engineered it using an OOP approach and designed and implemented it using Node.js and the Javascript programming language
+
+## Programming Language:
+- JavaScript
+
+## Runtime Environment
+- Node.js
+
+## IDE
+- Visual Studio Code
