@@ -21,7 +21,7 @@
 ##### IDE
 - Visual Studio Code
 
-##### Snapshots of the CLI-based game
+##### Snapshot of the first page of this CLI-based game
 ![Screenshot from 2023-05-13 19-14-30](https://github.com/Rami24t/RamiAl-Saadi-s-LettersOnFire-aFullyOOP-nodeJS-game/assets/103028944/7819a351-d581-410c-844c-594ee5726e56)
 
 
