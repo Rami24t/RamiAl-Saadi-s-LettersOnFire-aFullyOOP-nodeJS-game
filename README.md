@@ -23,8 +23,6 @@
 
 ##### Snapshots of the CLI-based game
 ![Screenshot from 2023-05-13 19-14-30](https://github.com/Rami24t/RamiAl-Saadi-s-LettersOnFire-aFullyOOP-nodeJS-game/assets/103028944/7819a351-d581-410c-844c-594ee5726e56)
-![Screenshot from 2023-05-13 19-14-15](https://github.com/Rami24t/RamiAl-Saadi-s-LettersOnFire-aFullyOOP-nodeJS-game/assets/103028944/e3b3c412-1ca5-4b23-a9a9-95f42232b01d)
-![Screenshot from 2023-05-13 19-13-58](https://github.com/Rami24t/RamiAl-Saadi-s-LettersOnFire-aFullyOOP-nodeJS-game/assets/103028944/bd53d497-0362-4077-93d5-de1161aca096)
 
 
 ###### Credits: Rami Al-Saadi - Sep 2022 - All rights reserved.
